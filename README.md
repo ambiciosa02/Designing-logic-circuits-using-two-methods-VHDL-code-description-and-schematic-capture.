@@ -53,6 +53,7 @@ A 7-segment display consists of 7 LEDs (a, b, c, d, e, f, g) used to display dig
 - Build logic circuit from truth table
 - Simulate and verify all input combinations
 <br>
+<br>
 Résultat de simulation :
 <br>
 <img width="422" height="384" alt="image" src="https://github.com/user-attachments/assets/053664a6-24b6-4206-bfab-b9559168e2f7" />
