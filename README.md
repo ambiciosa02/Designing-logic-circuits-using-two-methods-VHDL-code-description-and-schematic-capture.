@@ -41,17 +41,22 @@ A 7-segment display consists of 7 LEDs (a, b, c, d, e, f, g) used to display dig
 - Write VHDL code describing the decoder logic
 - Simulate for digits 0 to 9
 <br>
+<br>
 <img width="378" height="317" alt="image" src="https://github.com/user-attachments/assets/ce805885-3144-4327-a28f-06d5189585aa" />
 <br>
+<br>
 <img width="960" height="303" alt="image" src="https://github.com/user-attachments/assets/80f24604-146d-4e95-b0cc-eacacbeb9e71" />
+<br>
 <br>
 **Method 2: Schematic Implementation**
 - Create Block Diagram/Schematic file
 - Build logic circuit from truth table
 - Simulate and verify all input combinations
-
+<br>
+Résultat de simulation :
 <br>
 <img width="422" height="384" alt="image" src="https://github.com/user-attachments/assets/053664a6-24b6-4206-bfab-b9559168e2f7" />
+<br>
 <br>
 <img width="960" height="281" alt="image" src="https://github.com/user-attachments/assets/dba3b0b0-7094-4d37-a9d8-18864b33764a" />
 <br>
